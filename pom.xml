@@ -32,7 +32,7 @@
   <build>
     <plugins>
       <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
+        <artifactId></artifactId>
         <configuration>
           <source>9</source>
           <target>9</target>
@@ -100,7 +100,7 @@
 
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.9.2</version>
+          <version>2.3.2</version>
         </plugin>
 
         <plugin>
